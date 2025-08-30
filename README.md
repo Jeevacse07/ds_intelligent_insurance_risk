@@ -79,6 +79,18 @@ The app will launch in your browser at:
 
 ---
 
+## 📸 Application Demo
+
+### 1. Automated Insurance Q&A
+![Automated Insurance Q&A](screenshots/automated_response.png)
+
+### 2. High-Risk Claim Prediction
+![High-Risk Claim Prediction](screenshots/high_risk.png)
+
+### 3. Multilingual Insurance Document Translation
+![Multilingual Translation](screenshots/multi_language_transaltion.png)
+
+
 ## 📊 Components
 
 - **Data**:  
