@@ -1,0 +1,1036 @@
+incident_cause,claim_date,claim_area,police_report,claim_type,claim_amount,total_policy_claims,fraudulent
+Driver error,27-11-2017,Auto,0,Material only,2980,1,No
+Crime,03-10-2018,Home,0,Material only,2980,3,No
+Other driver error,02-02-2018,Auto,0,Material only,3369.5,1,Yes
+Natural causes,17-06-2018,Auto,0,Material only,1680,1,No
+Crime,13-01-2018,Auto,0,Material only,2680,1,No
+Other driver error,04-10-2017,Auto,0,Injury only,38306.5,3,Yes
+Driver error,13-01-2018,Auto,0,Material only,1730,4,No
+Natural causes,10-04-2018,Auto,0,Material only,1160,3,No
+Crime,15-02-2018,Auto,0,Material only,2620,1,No
+Crime,22-07-2017,Auto,0,Material only,2748.5,2,Yes
+Other driver error,13-01-2018,Home,0,Material only,1495,1,Yes
+Other driver error,10-12-2017,Auto,0,Material and injury,16690,1,No
+Other driver error,24-04-2018,Auto,0,Material only,1870,1,No
+Other driver error,19-09-2018,Auto,0,Material only,1050,1,No
+Other driver error,24-04-2018,Auto,1,Injury only,32560,1,No
+Natural causes,03-10-2018,Auto,0,Material only,2870,1,No
+Driver error,03-06-2018,Auto,0,Material only,3208.5,1,Yes
+Other causes,22-07-2017,Auto,0,Injury only,17800,1,No
+Natural causes,25-06-2017,Auto,0,Injury only,31380,1,No
+Other causes,17-12-2017,Auto,1,Injury only,36190,1,No
+Other driver error,24-08-2017,Auto,0,Material only,1010,1,No
+Other driver error,29-05-2017,Auto,1,Injury only,16830,1,No
+Driver error,14-09-2017,Auto,0,Material only,1690,1,No
+Natural causes,25-04-2017,Auto,0,Material only,2830,1,No
+Driver error,24-12-2017,Auto,0,Material and injury,32640,4,No
+Driver error,10-08-2018,Auto,0,Material only,2870,1,No
+Driver error,17-10-2017,Home,0,Material only,1210,1,No
+Natural causes,09-02-2018,Auto,0,Injury only,18580,1,No
+Other driver error,23-06-2018,Auto,0,Material only,2630,1,No
+Natural causes,10-08-2018,Auto,0,Material only,2540,1,No
+Driver error,01-03-2018,Auto,0,Material only,2320,1,No
+Other driver error,10-10-2017,Auto,0,Material only,2725.5,1,Yes
+Crime,21-05-2018,Home,0,Material only,2070,1,No
+Driver error,01-07-2017,Auto,0,Material only,1110,1,No
+Crime,31-10-2017,Home,0,Material only,1030,1,No
+Driver error,14-05-2018,Auto,0,Injury only,16910,1,No
+Other causes,17-02-2017,Auto,0,Material only,1890,1,No
+Other driver error,24-12-2017,Auto,1,Material and injury,33040,5,No
+Other causes,09-10-2018,Auto,1,Material and injury,25320,1,No
+Driver error,27-11-2017,Auto,0,Material only,2340,1,No
+Other driver error,25-04-2017,Auto,1,Material and injury,33000,2,No
+Driver error,12-04-2017,Auto,0,Injury only,19960,1,No
+Driver error,27-07-2018,Home,0,Injury only,27230,1,No
+Other driver error,12-04-2017,Auto,0,Material and injury,16150,1,No
+Other driver error,23-02-2017,Auto,1,Injury only,32630,1,No
+Other causes,31-10-2017,Auto,0,Material and injury,41850,1,No
+Crime,25-04-2017,Auto,1,Injury only,30540,1,No
+Other causes,31-08-2017,Auto,0,Material and injury,25576,7,Yes
+Other causes,18-06-2017,Auto,0,Material only,2210,3,No
+Other causes,22-02-2018,Auto,1,Material and injury,40820,3,No
+Other driver error,23-06-2018,Auto,0,Material only,1150,1,Yes
+Other driver error,01-07-2017,Auto,0,Material and injury,35765,1,Yes
+Other driver error,20-11-2017,Auto,0,Material only,2470,1,No
+Other causes,17-06-2018,Auto,0,Material and injury,20999,1,Yes
+Other driver error,02-02-2018,Auto,0,Material only,3358,4,Yes
+Other causes,10-04-2018,Auto,1,Material and injury,41430,1,No
+Driver error,10-12-2017,Auto,0,Material only,1730,1,No
+Other driver error,09-02-2018,Auto,0,Material and injury,20360,1,No
+Other driver error,21-05-2018,Auto,0,Material only,2870,4,No
+Driver error,14-01-2017,Auto,0,Material only,2910,1,No
+Other causes,22-07-2017,Home,0,Material and injury,33550,1,No
+Other driver error,20-11-2017,Auto,0,Material and injury,33190,1,No
+Other causes,10-02-2017,Auto,1,Injury only,25830,3,No
+Natural causes,04-04-2018,Auto,0,Material only,1242,1,Yes
+Natural causes,29-05-2017,Auto,0,Material and injury,20080,2,No
+Natural causes,16-08-2018,Auto,0,Material only,2120,1,No
+Crime,14-05-2018,Auto,0,Material and injury,19520,1,No
+Natural causes,29-03-2017,Auto,0,Material only,2090,1,No
+Other driver error,23-06-2018,Auto,0,Material only,1989.5,1,Yes
+Other causes,01-03-2018,Auto,0,Material only,2060,1,No
+Other driver error,20-07-2018,Auto,0,Injury only,30080,1,No
+Driver error,04-04-2018,Auto,0,Material only,1680,6,No
+Driver error,13-01-2018,Auto,0,Injury only,21505,1,Yes
+Crime,21-05-2018,Auto,0,Material only,2040,1,No
+Driver error,15-02-2018,Auto,0,Material and injury,42722.5,1,Yes
+Other causes,27-07-2018,Auto,0,Material and injury,34971.5,5,Yes
+Driver error,22-05-2017,Auto,0,Material only,1288,1,Yes
+Driver error,11-06-2017,Auto,1,Injury only,37800,1,No
+Driver error,27-01-2017,Auto,0,Material only,1180,1,No
+Other driver error,08-07-2017,Auto,0,Material and injury,32480,1,No
+Crime,03-08-2018,Auto,0,Material only,2710,1,No
+Crime,17-10-2017,Auto,0,Material only,2620,2,No
+Other driver error,20-11-2017,Auto,0,Material only,1943.5,1,Yes
+Driver error,30-06-2018,Auto,1,Material only,2170,5,No
+Other causes,06-11-2017,Auto,0,Injury only,31498.5,4,Yes
+Other causes,22-05-2017,Auto,0,Material only,1700,1,No
+Crime,28-05-2018,Auto,0,Material only,2220,1,No
+Crime,13-11-2017,Auto,0,Material only,1020,1,No
+Other driver error,14-05-2018,Home,0,Material only,1400,1,No
+Other causes,27-11-2017,Auto,0,Injury only,22960,1,No
+Other causes,09-03-2017,Auto,1,Injury only,18400,1,No
+Driver error,14-01-2017,Auto,0,Material and injury,37524.5,1,Yes
+Driver error,31-10-2017,Auto,1,Injury only,16070,1,No
+Other causes,08-07-2017,Auto,0,Material and injury,17230,1,No
+Natural causes,06-11-2017,Auto,0,Material and injury,24564,1,Yes
+Other driver error,16-10-2018,Auto,0,Material only,2599,1,Yes
+Driver error,03-12-2017,Auto,0,Material and injury,23740,1,No
+Crime,21-03-2018,Auto,0,Material only,1510,1,No
+Driver error,28-05-2018,Auto,0,Material only,2740,1,No
+Other driver error,16-10-2018,Auto,0,Injury only,23760,1,No
+Crime,25-06-2017,Auto,0,Material only,1640,1,No
+Driver error,13-11-2017,Auto,0,Injury only,23270,6,No
+Other driver error,03-12-2017,Auto,1,Injury only,29060,1,No
+Other causes,23-06-2018,Auto,0,Injury only,25783,2,Yes
+Other driver error,19-09-2018,Auto,0,Material and injury,36620,1,No
+Other causes,17-12-2017,Auto,0,Injury only,21300,1,No
+Other causes,01-01-2017,Auto,0,Material only,2967,1,Yes
+Other driver error,22-05-2017,Home,0,Material and injury,44493.5,1,Yes
+Other causes,02-03-2017,Auto,0,Material only,3070.5,1,Yes
+Other driver error,01-05-2018,Auto,0,Material only,2560,1,No
+Crime,14-03-2018,Auto,0,Material only,2070,1,No
+Other driver error,06-11-2017,Auto,0,Material only,1759.5,4,Yes
+Natural causes,08-03-2018,Home,0,Material only,1771,5,Yes
+Driver error,12-04-2017,Auto,1,Injury only,17360,1,No
+Other driver error,28-07-2017,Auto,0,Material only,1368.5,1,Yes
+Other causes,21-03-2018,Home,1,Injury only,19240,1,No
+Other driver error,10-04-2018,Auto,0,Material and injury,14260,2,No
+Natural causes,08-03-2018,Auto,0,Material only,1350,1,No
+Other causes,10-04-2018,Auto,0,Material only,1860,1,No
+Other driver error,23-10-2018,Auto,0,Injury only,15440,1,No
+Other causes,12-09-2018,Auto,0,Material and injury,32710,1,No
+Crime,03-08-2018,Auto,0,Material only,1380,1,No
+Other driver error,16-03-2017,Auto,0,Material only,2510,1,No
+Other driver error,09-02-2018,Auto,0,Injury only,44700.5,1,Yes
+Driver error,17-12-2017,Auto,0,Material only,1550,1,No
+Crime,03-10-2018,Auto,0,Material only,1850,3,No
+Other driver error,20-07-2018,Home,0,Material only,2760,1,No
+Other driver error,07-09-2017,Auto,0,Material only,2740,1,No
+Other driver error,30-12-2017,Auto,0,Injury only,26480,1,No
+Other causes,09-10-2018,Auto,0,Material and injury,47610,3,Yes
+Other driver error,30-12-2017,Auto,0,Material only,2170,1,No
+Other driver error,25-04-2017,Auto,0,Injury only,17590,4,No
+Other causes,12-09-2018,Auto,0,Material only,1080,1,No
+Natural causes,23-02-2017,Auto,0,Material only,2610,2,No
+Natural causes,22-07-2017,Auto,0,Material only,1320,1,No
+Crime,01-07-2017,Auto,0,Material only,1840,1,No
+Driver error,14-01-2017,Auto,0,Material only,2970,1,No
+Driver error,04-04-2018,Home,1,Injury only,17180,5,No
+Other driver error,23-02-2017,Auto,0,Material only,2720,1,No
+Driver error,08-07-2017,Auto,0,Material only,2700,1,No
+Other causes,29-03-2017,Auto,0,Injury only,14240,4,No
+Driver error,10-12-2017,Auto,0,Material only,2560,3,No
+Crime,18-04-2017,Auto,1,Injury only,19440,4,No
+Crime,23-02-2017,Auto,1,Material and injury,40180,1,No
+Crime,09-03-2017,Auto,0,Material only,1260,1,No
+Crime,19-09-2018,Auto,0,Material only,1880,4,No
+Other causes,20-07-2018,Auto,0,Material only,2260,1,No
+Other driver error,25-04-2017,Auto,0,Material only,2960,1,No
+Other causes,22-07-2017,Auto,0,Material only,1253.5,1,Yes
+Other causes,16-08-2018,Auto,1,Material and injury,32300,2,No
+Natural causes,04-04-2018,Home,0,Material only,1660,1,No
+Other causes,04-06-2017,Auto,0,Injury only,22420,1,No
+Natural causes,10-06-2018,Auto,0,Material only,2150,3,No
+Crime,26-01-2018,Auto,0,Material only,2460,1,No
+Crime,14-01-2017,Auto,0,Material only,1140,4,No
+Crime,18-04-2017,Auto,0,Injury only,17050,1,No
+Other driver error,06-01-2018,Auto,0,Injury only,25030,1,No
+Natural causes,01-01-2017,Auto,0,Material only,2080,1,No
+Natural causes,07-05-2018,Auto,0,Injury only,38590,3,No
+Other causes,10-10-2017,Auto,0,Material and injury,21190,1,No
+Driver error,10-10-2017,Auto,0,Injury only,36180,1,No
+Other driver error,01-01-2017,Home,0,Material and injury,30930,1,No
+Other driver error,15-07-2017,Auto,0,Material and injury,47679,2,Yes
+Other driver error,30-08-2018,Auto,0,Material only,2440,1,No
+Driver error,09-10-2018,Auto,0,Injury only,28060,1,No
+Natural causes,06-01-2018,Auto,0,Material only,1850,1,No
+Other driver error,22-02-2018,Auto,1,Material and injury,24750,1,No
+Driver error,30-08-2018,Auto,0,Material only,2320,1,No
+Driver error,02-02-2018,Auto,0,Injury only,29600,1,No
+Other causes,17-06-2018,Auto,0,Material only,1790,1,No
+Other causes,06-01-2018,Auto,1,Injury only,31270,1,No
+Other driver error,03-10-2018,Auto,0,Material and injury,30530,2,No
+Other driver error,19-09-2018,Auto,0,Material only,3139.5,3,Yes
+Driver error,31-08-2017,Auto,0,Material only,2470,1,No
+Other driver error,01-01-2017,Auto,0,Material and injury,17290,1,No
+Other driver error,11-08-2017,Home,0,Material only,1570,1,No
+Driver error,17-12-2017,Auto,0,Injury only,14330,3,No
+Other driver error,22-07-2017,Auto,0,Material only,2530,3,No
+Other driver error,11-06-2017,Auto,0,Material and injury,15240,1,No
+Other causes,15-02-2018,Auto,0,Material only,1880,1,No
+Crime,10-08-2018,Auto,0,Injury only,37200,1,No
+Crime,14-03-2018,Home,0,Material only,2060,5,No
+Crime,22-05-2017,Auto,0,Material only,1020,1,No
+Other causes,12-04-2017,Auto,0,Material and injury,40660,1,No
+Other causes,23-02-2017,Auto,0,Material only,2310,1,No
+Driver error,24-10-2017,Auto,0,Material and injury,15920,1,No
+Driver error,18-08-2017,Home,1,Material only,2710,1,No
+Natural causes,03-02-2017,Auto,0,Material only,2290,1,No
+Other driver error,03-02-2017,Auto,0,Material only,1180,4,No
+Other causes,11-08-2017,Auto,0,Material only,3059,1,Yes
+Other driver error,20-09-2017,Auto,0,Material only,1630,2,No
+Other causes,07-01-2017,Home,0,Material only,3335,3,Yes
+Natural causes,09-10-2018,Home,0,Material only,1580,1,No
+Natural causes,10-12-2017,Home,0,Material only,2645,1,Yes
+Other causes,21-01-2017,Home,0,Material and injury,27560,1,No
+Other driver error,01-03-2018,Auto,0,Material and injury,20660,1,No
+Driver error,14-01-2017,Auto,0,Material only,1400,1,No
+Other driver error,07-07-2018,Auto,1,Injury only,30350,1,No
+Crime,04-06-2017,Auto,0,Material only,1740,3,No
+Other driver error,21-03-2018,Auto,0,Material and injury,21830,1,No
+Natural causes,28-03-2018,Auto,0,Material only,1280,1,No
+Other causes,25-06-2017,Auto,0,Material and injury,34770,4,No
+Other causes,18-06-2017,Auto,0,Material only,1391.5,1,Yes
+Other causes,26-09-2018,Auto,0,Material only,1520,1,No
+Natural causes,28-07-2017,Auto,0,Material only,1700,1,No
+Crime,30-10-2018,Home,0,Material and injury,17020,1,No
+Other driver error,24-10-2017,Auto,0,Injury only,31980,1,No
+Natural causes,17-02-2017,Auto,0,Material only,1860,1,No
+Crime,13-11-2017,Auto,0,Material and injury,41365.5,1,Yes
+Other causes,09-05-2017,Auto,1,Injury only,27520,1,No
+Other causes,01-01-2017,Auto,0,Material and injury,20200,1,No
+Other driver error,03-10-2018,Auto,0,Injury only,35830,1,No
+Driver error,07-09-2017,Auto,0,Material only,2600,4,No
+Natural causes,31-10-2017,Auto,0,Material only,2410,1,No
+Natural causes,13-01-2018,Auto,1,Material only,3312,4,Yes
+Driver error,24-04-2018,Auto,0,Material only,2980,1,No
+Natural causes,12-04-2017,Auto,0,Material only,1680,1,No
+Driver error,30-10-2018,Auto,0,Material and injury,26310,1,No
+Driver error,27-09-2017,Auto,0,Material and injury,37400,1,No
+Driver error,13-11-2017,Auto,0,Material only,2320,1,No
+Other driver error,01-07-2017,Auto,1,Material and injury,27610,2,No
+Driver error,25-04-2017,Home,0,Injury only,22100,1,No
+Other causes,06-11-2017,Auto,1,Material only,1080,3,No
+Other driver error,12-04-2017,Auto,0,Material only,1590,1,No
+Crime,10-10-2017,Auto,0,Material only,2170,1,No
+Other driver error,14-07-2018,Auto,0,Material only,2920,2,No
+Natural causes,03-02-2017,Auto,0,Material only,1679,4,Yes
+Driver error,23-06-2018,Home,0,Injury only,18308,1,Yes
+Other causes,23-06-2018,Auto,0,Injury only,16940,1,No
+Other driver error,17-06-2018,Home,0,Material only,1600,1,No
+Driver error,22-02-2018,Auto,0,Material and injury,39307,1,Yes
+Natural causes,04-04-2018,Auto,0,Material and injury,28750,1,No
+Driver error,17-04-2018,Auto,0,Material only,1510,1,No
+Other driver error,25-04-2017,Auto,1,Material only,1030,1,No
+Other causes,22-03-2017,Auto,0,Material only,2714,1,Yes
+Crime,04-06-2017,Auto,0,Material only,2415,3,Yes
+Other driver error,13-01-2018,Auto,0,Material and injury,39280,2,No
+Crime,05-04-2017,Home,0,Material only,1403,3,Yes
+Driver error,16-08-2018,Auto,0,Material and injury,34300,1,No
+Natural causes,01-07-2017,Auto,0,Material only,2650,1,No
+Other causes,14-09-2017,Auto,0,Injury only,23960,1,No
+Driver error,04-08-2017,Auto,0,Material only,1529.5,3,Yes
+Driver error,03-02-2017,Auto,0,Material only,2460,2,No
+Natural causes,10-10-2017,Auto,0,Material only,1620,1,No
+Other driver error,03-02-2017,Home,0,Material only,2790,1,No
+Other causes,27-01-2017,Auto,0,Material only,1210,1,No
+Natural causes,10-08-2018,Auto,1,Injury only,19676.5,1,Yes
+Other driver error,07-09-2017,Auto,0,Material and injury,27266.5,1,Yes
+Other causes,18-04-2017,Auto,1,Injury only,33590,2,No
+Natural causes,17-10-2017,Auto,1,Material only,2840,1,No
+Other driver error,22-02-2018,Home,0,Material and injury,16790,1,No
+Natural causes,03-06-2018,Auto,0,Material only,1322.5,3,Yes
+Natural causes,01-07-2017,Auto,1,Material and injury,19900,1,No
+Crime,13-11-2017,Auto,0,Material only,2440,1,No
+Other driver error,17-02-2017,Auto,0,Material only,1529.5,1,Yes
+Driver error,31-10-2017,Auto,0,Material only,2691,1,Yes
+Driver error,04-06-2017,Auto,0,Material only,3128,1,Yes
+Other driver error,30-08-2018,Home,0,Material only,3036,1,Yes
+Crime,04-10-2017,Home,0,Material only,1173,1,Yes
+Other driver error,15-02-2018,Auto,0,Material only,1200,4,No
+Driver error,14-03-2018,Auto,1,Injury only,29960,1,No
+Driver error,15-02-2018,Auto,0,Material only,1970,1,No
+Other causes,09-10-2018,Auto,0,Material only,2090,1,No
+Other driver error,31-08-2017,Auto,0,Material only,2640,1,No
+Other causes,30-10-2018,Auto,0,Material and injury,42124.5,1,Yes
+Other driver error,16-03-2017,Auto,0,Injury only,21330,3,No
+Driver error,27-11-2017,Auto,0,Material only,1817,1,Yes
+Driver error,07-07-2018,Auto,0,Material and injury,17670,1,No
+Driver error,05-04-2017,Auto,0,Material only,1110,1,No
+Other causes,28-07-2017,Auto,0,Material and injury,32407,1,Yes
+Driver error,15-07-2017,Auto,1,Material only,1460,1,No
+Other causes,22-05-2017,Auto,1,Injury only,41779.5,1,Yes
+Other driver error,09-05-2017,Auto,0,Material only,1850,1,No
+Natural causes,07-01-2017,Auto,0,Material only,1770,1,No
+Crime,21-05-2018,Auto,0,Material only,1160,1,No
+Other causes,03-08-2018,Home,0,Material only,2410,1,No
+Other driver error,11-06-2017,Auto,0,Material only,1520,2,No
+Other causes,29-03-2017,Home,1,Material and injury,33900,2,No
+Other driver error,21-05-2018,Auto,1,Material and injury,28740,1,No
+Other causes,01-07-2017,Auto,0,Material and injury,23980,3,No
+Other causes,31-10-2017,Auto,0,Material only,1184.5,1,Yes
+Crime,18-06-2017,Auto,0,Material only,2104.5,1,Yes
+Driver error,29-05-2017,Auto,0,Material only,1040,1,No
+Other causes,12-09-2018,Auto,0,Material and injury,21942,2,Yes
+Driver error,10-02-2017,Home,0,Material only,1550,6,No
+Driver error,30-06-2018,Auto,0,Material only,1740,2,No
+Other driver error,06-01-2018,Auto,0,Material only,2240,4,No
+Other driver error,29-03-2017,Auto,0,Material only,2440,1,No
+Other causes,16-03-2017,Auto,0,Injury only,16460,1,No
+Other causes,10-02-2017,Auto,0,Material only,2590,1,No
+Other causes,01-01-2017,Auto,0,Material and injury,37290,3,No
+Natural causes,11-08-2017,Auto,0,Material only,3128,1,Yes
+Other causes,29-05-2017,Auto,0,Material only,2700,2,No
+Natural causes,27-07-2018,Auto,0,Material only,2280,1,No
+Other driver error,21-03-2018,Auto,0,Material only,2656.5,1,Yes
+Crime,02-02-2018,Auto,1,Injury only,35178.5,1,Yes
+Other driver error,05-04-2017,Auto,0,Injury only,19390,1,No
+Other driver error,06-11-2017,Auto,0,Material only,2730,5,No
+Other causes,17-02-2017,Auto,1,Injury only,16700,1,No
+Other driver error,09-03-2017,Auto,0,Material only,2886.5,1,Yes
+Other driver error,07-09-2017,Auto,0,Material only,1932,1,Yes
+Natural causes,01-05-2018,Auto,0,Material only,2210,1,No
+Other driver error,08-03-2018,Auto,1,Material and injury,41280,2,No
+Other causes,17-04-2018,Auto,0,Material and injury,26620,1,No
+Driver error,10-12-2017,Auto,0,Material and injury,26520,2,No
+Other driver error,09-05-2017,Auto,1,Material and injury,14480,3,No
+Other causes,02-03-2017,Auto,0,Material only,1800,2,No
+Crime,13-01-2018,Auto,1,Material only,2020,1,No
+Natural causes,07-07-2018,Auto,0,Material only,1260,1,No
+Driver error,23-10-2018,Auto,0,Material and injury,20550,1,No
+Other causes,05-04-2017,Auto,0,Material only,2219.5,1,Yes
+Driver error,01-01-2017,Auto,1,Injury only,20310,1,No
+Other causes,31-08-2017,Auto,0,Material only,2330,1,No
+Other driver error,15-07-2017,Auto,1,Material and injury,32960,1,No
+Other causes,26-09-2018,Home,1,Material and injury,18530,1,No
+Natural causes,27-09-2017,Auto,0,Material only,1679,1,Yes
+Other causes,20-01-2018,Home,0,Material only,2070,1,Yes
+Driver error,20-07-2018,Home,0,Material only,2750,1,No
+Natural causes,17-10-2017,Auto,0,Material only,1860,1,No
+Other driver error,31-10-2017,Auto,0,Material only,1380,1,No
+Other causes,30-12-2017,Auto,0,Material only,1920,2,No
+Other causes,17-06-2018,Auto,1,Injury only,36350,1,No
+Natural causes,16-10-2018,Auto,0,Material only,1450,1,No
+Natural causes,23-02-2017,Home,0,Injury only,39928,1,Yes
+Driver error,02-03-2017,Auto,0,Material only,2450,1,No
+Other causes,04-06-2017,Auto,0,Material only,2810,1,No
+Other causes,10-06-2018,Auto,0,Material only,2470,2,No
+Other causes,31-08-2017,Auto,0,Material only,1207.5,1,Yes
+Natural causes,01-03-2018,Home,0,Material and injury,29690,1,No
+Driver error,24-04-2018,Auto,0,Material only,2450,1,No
+Crime,30-10-2018,Auto,0,Material only,1940,1,No
+Other driver error,16-10-2018,Auto,0,Material and injury,32150,2,No
+Crime,04-04-2018,Auto,0,Material only,1750,1,No
+Driver error,01-03-2018,Auto,0,Injury only,28950,1,No
+Natural causes,02-02-2018,Auto,0,Material only,1350,1,No
+Driver error,14-03-2018,Auto,0,Injury only,33200,1,No
+Driver error,14-03-2018,Auto,0,Material and injury,45287,1,Yes
+Natural causes,10-06-2018,Auto,0,Material only,2530,1,Yes
+Driver error,17-04-2018,Auto,0,Injury only,28050,1,No
+Driver error,15-07-2017,Auto,0,Material only,2277,1,Yes
+Other driver error,10-12-2017,Auto,0,Material only,2840,1,No
+Other driver error,28-03-2018,Auto,0,Material only,2130,1,No
+Other causes,03-06-2018,Auto,0,Material only,2070,1,No
+Other causes,19-09-2018,Auto,0,Material only,1900,1,No
+Driver error,10-12-2017,Auto,0,Material only,2810,1,No
+Crime,24-08-2017,Auto,0,Material and injury,24713.5,1,Yes
+Natural causes,28-07-2017,Auto,0,Material only,2220,1,No
+Natural causes,02-02-2018,Auto,0,Material only,1210,1,No
+Natural causes,25-06-2017,Home,1,Material and injury,38970,1,No
+Other driver error,26-09-2018,Home,0,Material only,1140,1,No
+Other causes,23-08-2018,Home,0,Material only,2360,1,No
+Driver error,22-03-2017,Auto,0,Material and injury,19640,1,No
+Other driver error,27-01-2017,Auto,1,Material and injury,14170,1,No
+Crime,30-08-2018,Auto,0,Material only,1100,1,No
+Driver error,06-11-2017,Auto,0,Injury only,29900,1,Yes
+Other causes,22-05-2017,Auto,1,Injury only,20970,1,No
+Driver error,01-01-2017,Auto,0,Material only,2900,2,No
+Other driver error,05-04-2017,Home,0,Material and injury,35800,3,No
+Driver error,15-05-2017,Auto,0,Material only,2130,2,No
+Other causes,03-06-2018,Auto,0,Material and injury,24080,1,No
+Driver error,01-07-2017,Auto,1,Material and injury,34590,1,No
+Crime,17-02-2017,Auto,0,Material only,1870,3,No
+Other driver error,09-03-2017,Home,0,Material only,2370,4,No
+Other driver error,10-12-2017,Auto,1,Injury only,26130,1,No
+Other causes,24-12-2017,Auto,0,Material only,1150,1,Yes
+Driver error,24-04-2018,Auto,0,Material and injury,23370,3,No
+Other causes,09-10-2018,Auto,0,Material only,2090,1,No
+Driver error,05-04-2017,Auto,0,Material and injury,30420,1,No
+Driver error,14-03-2018,Auto,0,Material only,2750,2,No
+Natural causes,20-01-2018,Auto,0,Material only,1570,1,No
+Other driver error,04-08-2017,Auto,1,Material only,1110,1,No
+Other driver error,09-10-2018,Auto,0,Material and injury,36075.5,4,Yes
+Crime,09-03-2017,Auto,0,Material only,1260,1,No
+Driver error,17-12-2017,Auto,1,Injury only,22440,1,No
+Other driver error,11-08-2017,Auto,0,Injury only,21620,1,No
+Other causes,23-02-2017,Auto,0,Material only,1540,1,No
+Other driver error,12-04-2017,Home,0,Injury only,24610,1,No
+Crime,23-08-2018,Auto,0,Material only,2507,5,Yes
+Other causes,18-08-2017,Auto,0,Material and injury,20769,1,Yes
+Crime,18-08-2017,Auto,0,Material only,2990,1,No
+Driver error,17-10-2017,Auto,0,Material only,2967,4,Yes
+Driver error,03-06-2018,Auto,0,Material only,1780,1,No
+Other causes,08-07-2017,Auto,0,Injury only,30840,5,No
+Other causes,28-03-2018,Auto,1,Injury only,32680,1,No
+Natural causes,30-06-2018,Home,0,Material and injury,31110,1,No
+Natural causes,06-09-2018,Auto,0,Material only,2771.5,1,Yes
+Natural causes,02-03-2017,Auto,0,Material only,1000,1,No
+Natural causes,12-09-2018,Auto,1,Material only,2970,1,No
+Natural causes,25-06-2017,Auto,0,Material only,2230,1,No
+Natural causes,25-04-2017,Auto,0,Material only,3427,1,Yes
+Natural causes,31-10-2017,Auto,1,Injury only,33490,3,No
+Driver error,14-09-2017,Auto,0,Injury only,29630,1,No
+Driver error,22-03-2017,Auto,0,Injury only,25010,1,No
+Other causes,27-11-2017,Home,0,Material only,1020,1,No
+Other driver error,08-03-2018,Auto,0,Material only,1909,1,Yes
+Other causes,24-08-2017,Auto,0,Injury only,14460,6,No
+Other driver error,21-05-2018,Auto,1,Material and injury,39280,3,No
+Natural causes,30-12-2017,Auto,0,Material and injury,44367,1,Yes
+Natural causes,02-03-2017,Auto,0,Material only,2392,1,Yes
+Other causes,21-03-2018,Auto,0,Material and injury,31901,1,Yes
+Driver error,23-02-2017,Auto,0,Material and injury,21447.5,2,Yes
+Other causes,14-03-2018,Auto,0,Material only,2950,1,No
+Driver error,06-11-2017,Auto,0,Injury only,22000,4,No
+Driver error,14-01-2017,Auto,0,Material only,1860,1,No
+Other causes,22-05-2017,Auto,0,Material only,1620,1,No
+Other causes,22-07-2017,Auto,0,Material only,2806,1,Yes
+Other driver error,01-05-2018,Auto,0,Material only,1170,1,No
+Other driver error,07-05-2018,Auto,0,Material only,1630,2,No
+Other causes,04-10-2017,Auto,0,Material only,3013,1,Yes
+Other driver error,03-02-2017,Auto,0,Material only,2060,1,No
+Other driver error,16-03-2017,Auto,0,Material only,1276.5,1,Yes
+Other causes,16-08-2018,Auto,0,Material only,1320,1,No
+Other causes,11-08-2017,Auto,1,Injury only,33030,2,No
+Other causes,19-09-2018,Auto,1,Injury only,27002,3,Yes
+Other causes,27-07-2018,Home,0,Material only,2060,1,No
+Driver error,17-10-2017,Auto,1,Material only,1630,1,No
+Other driver error,07-09-2017,Auto,1,Material and injury,40210,1,No
+Other causes,20-07-2018,Auto,0,Material only,1173,1,Yes
+Driver error,30-12-2017,Auto,0,Material only,1630,2,No
+Other causes,20-07-2018,Auto,1,Material and injury,20080,2,No
+Other driver error,20-07-2018,Auto,1,Material and injury,16880,3,No
+Driver error,31-10-2017,Auto,0,Material only,2323,1,Yes
+Other driver error,16-03-2017,Auto,1,Injury only,19820,1,No
+Other driver error,10-04-2018,Auto,0,Injury only,20630,5,No
+Driver error,09-02-2018,Auto,1,Material only,1510,1,No
+Crime,30-08-2018,Auto,0,Material only,1710,1,No
+Natural causes,04-04-2018,Auto,0,Material only,2219.5,1,Yes
+Driver error,29-05-2017,Auto,0,Material only,2940,1,No
+Crime,03-12-2017,Auto,0,Material only,2370,1,No
+Other driver error,06-09-2018,Auto,1,Material and injury,41320,1,No
+Driver error,27-11-2017,Auto,0,Material only,3231.5,1,Yes
+Other causes,22-07-2017,Auto,0,Injury only,37500,2,No
+Other causes,20-09-2017,Auto,0,Material only,2670,1,No
+Other driver error,03-12-2017,Auto,1,Material and injury,35800,1,No
+Other causes,05-04-2017,Auto,0,Material only,2050,1,No
+Natural causes,01-03-2018,Auto,1,Material and injury,25580,1,No
+Natural causes,10-10-2017,Auto,0,Material and injury,39370,1,No
+Driver error,13-01-2018,Auto,0,Injury only,17250,1,No
+Driver error,30-12-2017,Auto,0,Material only,2090,1,No
+Other causes,18-06-2017,Auto,0,Material only,2430,1,No
+Natural causes,14-01-2017,Auto,0,Material only,1700,1,No
+Driver error,30-08-2018,Auto,0,Material only,2820,1,No
+Natural causes,21-05-2018,Auto,0,Material only,2960,1,No
+Natural causes,27-11-2017,Auto,0,Material only,2170,3,No
+Driver error,16-10-2018,Auto,0,Material only,2320,4,No
+Driver error,03-12-2017,Auto,0,Material only,2320,1,No
+Driver error,04-04-2018,Auto,0,Material and injury,31450,1,No
+Other causes,06-09-2018,Auto,1,Material only,1150,2,Yes
+Natural causes,04-08-2017,Auto,0,Material and injury,23450,1,No
+Other driver error,02-05-2017,Auto,0,Injury only,13710,2,No
+Other causes,13-01-2018,Auto,0,Material and injury,16100,1,No
+Other causes,22-03-2017,Auto,0,Material only,2580,1,No
+Other driver error,28-03-2018,Auto,0,Material only,2600,1,No
+Driver error,03-10-2018,Auto,0,Material and injury,25730,2,No
+Natural causes,10-08-2018,Auto,0,Material and injury,40540,1,No
+Natural causes,14-01-2017,Auto,0,Material only,1500,2,No
+Other driver error,24-08-2017,Auto,0,Material only,2950,1,No
+Natural causes,07-09-2017,Auto,0,Material only,1060,1,No
+Other driver error,24-08-2017,Auto,1,Injury only,37170,1,No
+Other causes,29-03-2017,Auto,0,Material only,2185,2,Yes
+Other causes,30-06-2018,Auto,0,Material and injury,37869.5,4,Yes
+Crime,21-05-2018,Auto,0,Material only,1820,1,No
+Driver error,30-08-2018,Auto,0,Material only,2070,1,No
+Driver error,21-05-2018,Auto,0,Material and injury,16040,1,No
+Other driver error,04-06-2017,Auto,1,Material and injury,27310,3,No
+Crime,10-02-2017,Auto,0,Material only,2550,1,No
+Driver error,18-06-2017,Auto,0,Material and injury,27910,1,No
+Other causes,17-12-2017,Auto,1,Injury only,29480,3,No
+Natural causes,04-04-2018,Auto,0,Material only,1300,1,No
+Other causes,24-12-2017,Auto,0,Injury only,37630,1,No
+Driver error,06-11-2017,Auto,1,Material and injury,25950,3,No
+Other causes,16-08-2018,Auto,0,Material and injury,27240,1,No
+Other driver error,31-08-2017,Auto,0,Injury only,30340,1,No
+Other driver error,12-09-2018,Auto,0,Material only,2710,1,No
+Other driver error,27-07-2018,Auto,0,Injury only,35250,3,No
+Driver error,09-03-2017,Home,1,Injury only,38890,2,No
+Driver error,03-12-2017,Auto,1,Material and injury,22570,1,No
+Natural causes,01-05-2018,Auto,0,Material only,1140,1,No
+Other causes,23-06-2018,Home,1,Injury only,38120,1,No
+Crime,21-03-2018,Home,0,Material only,2369,1,Yes
+Other causes,02-03-2017,Auto,0,Material only,1200,1,No
+Other driver error,24-12-2017,Auto,0,Material only,2081.5,1,Yes
+Other causes,10-04-2018,Auto,0,Material only,1050,1,No
+Other driver error,27-11-2017,Auto,0,Material only,2550,2,No
+Driver error,13-11-2017,Auto,0,Material only,2590,2,No
+Driver error,20-09-2017,Home,1,Material only,1644.5,1,Yes
+Crime,22-03-2017,Auto,0,Material only,1265,1,Yes
+Driver error,08-03-2018,Home,0,Material only,1863,1,Yes
+Other driver error,04-04-2018,Auto,1,Material and injury,24667.5,1,Yes
+Driver error,30-12-2017,Home,0,Material only,2288.5,4,Yes
+Driver error,11-08-2017,Auto,0,Material only,1810,1,No
+Driver error,25-04-2017,Auto,0,Material and injury,30015,1,Yes
+Other driver error,26-09-2018,Auto,0,Material only,1300,1,No
+Crime,14-03-2018,Auto,0,Material only,1860,1,No
+Driver error,18-06-2017,Auto,0,Material and injury,40880,1,No
+Other driver error,18-06-2017,Auto,0,Material only,1550,1,No
+Driver error,03-06-2018,Auto,0,Material and injury,20033,3,Yes
+Other causes,25-04-2017,Auto,0,Material and injury,20230,1,No
+Driver error,17-06-2018,Auto,0,Material only,1670,2,No
+Other causes,17-04-2018,Auto,0,Material only,2714,1,Yes
+Other driver error,17-06-2018,Auto,0,Injury only,19297,1,Yes
+Driver error,22-07-2017,Auto,0,Injury only,14720,1,No
+Driver error,13-01-2018,Auto,0,Injury only,16760,1,No
+Driver error,28-05-2018,Auto,0,Material only,2440,1,No
+Other driver error,07-07-2018,Auto,1,Material and injury,40170,1,No
+Driver error,29-03-2017,Auto,1,Material and injury,36350,1,No
+Other causes,06-09-2018,Auto,0,Injury only,29830,1,No
+Other driver error,14-05-2018,Auto,1,Material and injury,29530,1,No
+Natural causes,03-10-2018,Home,1,Injury only,34970,1,No
+Other causes,02-02-2018,Home,0,Material only,2550,1,No
+Natural causes,18-04-2017,Auto,0,Material only,2590,1,No
+Other causes,27-01-2017,Auto,0,Material only,2850,2,No
+Driver error,08-03-2018,Auto,0,Material only,2470,3,No
+Natural causes,22-05-2017,Auto,0,Material only,2932.5,4,Yes
+Other causes,20-07-2018,Home,0,Material and injury,27404.5,2,Yes
+Driver error,14-07-2018,Auto,0,Material and injury,34160,1,No
+Other driver error,15-05-2017,Auto,0,Material only,1430,1,No
+Natural causes,28-05-2018,Auto,1,Injury only,19960,4,No
+Other driver error,24-04-2018,Auto,0,Material only,1480,2,No
+Other driver error,07-07-2018,Home,0,Material only,2960,3,No
+Natural causes,03-06-2018,Auto,0,Material only,1170,1,No
+Driver error,17-06-2018,Home,0,Material only,1280,1,No
+Natural causes,22-02-2018,Auto,0,Material only,1110,4,No
+Natural causes,08-03-2018,Auto,0,Material and injury,17721.5,1,Yes
+Other causes,13-11-2017,Auto,0,Injury only,30060,1,No
+Other driver error,06-01-2018,Auto,1,Injury only,44666,1,Yes
+Other causes,22-07-2017,Auto,0,Injury only,28230,1,No
+Crime,20-09-2017,Auto,0,Material only,2410,1,No
+Natural causes,11-06-2017,Auto,0,Material only,1265,1,Yes
+Natural causes,21-05-2018,Auto,0,Material only,1725,1,Yes
+Other driver error,17-04-2018,Auto,0,Injury only,19320,1,No
+Other driver error,15-05-2017,Auto,0,Material only,2430,3,No
+Crime,11-08-2017,Auto,0,Material only,1000,2,No
+Other causes,17-12-2017,Auto,0,Material and injury,29060,3,No
+Other driver error,02-03-2017,Auto,0,Injury only,24380,1,Yes
+Crime,16-03-2017,Auto,0,Material and injury,33210,1,No
+Other driver error,18-08-2017,Auto,0,Material only,2370,1,No
+Other causes,17-06-2018,Auto,0,Material and injury,26630,1,No
+Driver error,27-09-2017,Auto,1,Material and injury,14570,1,No
+Other driver error,18-06-2017,Auto,0,Material only,1700,1,No
+Other causes,18-06-2017,Auto,1,Material and injury,30230,1,No
+Natural causes,09-05-2017,Auto,0,Material only,1300,1,No
+Other causes,14-03-2018,Auto,1,Material and injury,23851,1,Yes
+Other causes,10-02-2017,Auto,0,Material only,1100,2,No
+Crime,06-09-2018,Home,0,Material only,1910,1,No
+Driver error,01-01-2017,Home,0,Injury only,19120,1,No
+Driver error,24-10-2017,Auto,0,Material and injury,47748,3,Yes
+Crime,06-01-2018,Auto,1,Material and injury,44838.5,1,Yes
+Other causes,23-08-2018,Home,0,Material only,1580,1,No
+Other causes,26-09-2018,Auto,0,Material and injury,28382,1,Yes
+Natural causes,09-02-2018,Auto,0,Material only,1530,1,No
+Other driver error,25-06-2017,Auto,0,Material and injury,27830,2,No
+Driver error,09-10-2018,Auto,0,Material only,2340,1,No
+Driver error,06-09-2018,Auto,0,Material and injury,22011,2,Yes
+Driver error,15-05-2017,Auto,0,Material only,2540,1,No
+Natural causes,24-08-2017,Auto,0,Material only,2790,1,No
+Other causes,04-04-2018,Auto,0,Material only,2910,1,No
+Other causes,27-01-2017,Auto,1,Injury only,20720,1,No
+Crime,14-09-2017,Auto,0,Material only,2334.5,1,Yes
+Other driver error,04-08-2017,Auto,1,Material only,1600,1,No
+Other causes,27-11-2017,Auto,1,Material and injury,37380,1,No
+Driver error,04-04-2018,Home,0,Material only,1460,4,No
+Driver error,16-10-2018,Home,0,Material only,1790,1,No
+Driver error,21-01-2017,Auto,0,Material only,1040,1,No
+Crime,07-01-2017,Auto,0,Material only,1759.5,4,Yes
+Driver error,08-03-2018,Auto,0,Material and injury,29480,1,No
+Crime,20-09-2017,Auto,0,Material only,1040,2,No
+Natural causes,04-04-2018,Home,0,Material only,2440,1,No
+Natural causes,07-07-2018,Auto,0,Material only,1140,1,No
+Other driver error,23-02-2017,Auto,0,Injury only,34950,1,No
+Other driver error,22-03-2017,Auto,0,Material only,2980,1,No
+Driver error,07-01-2017,Auto,0,Material only,2380,1,No
+Driver error,23-02-2017,Auto,0,Material only,2130,1,No
+Other causes,24-12-2017,Home,0,Material only,2480,1,No
+Other driver error,03-06-2018,Auto,0,Material only,2130,1,No
+Driver error,06-09-2018,Auto,0,Material only,2720,1,No
+Crime,26-09-2018,Auto,0,Material only,2950,1,No
+Natural causes,04-08-2017,Auto,0,Material only,2840,4,No
+Driver error,29-03-2017,Auto,0,Material and injury,38065,4,Yes
+Driver error,10-10-2017,Auto,1,Material and injury,26440,2,No
+Other causes,07-05-2018,Auto,0,Material and injury,28400,1,No
+Driver error,03-10-2018,Auto,0,Material only,1320,1,No
+Other causes,13-01-2018,Auto,0,Material only,2120,1,No
+Natural causes,15-02-2018,Auto,0,Material only,2000,1,No
+Crime,17-10-2017,Auto,0,Material only,2150,1,No
+Natural causes,21-01-2017,Auto,0,Material only,1350,2,No
+Other causes,08-07-2017,Auto,0,Injury only,18570,1,No
+Driver error,10-04-2018,Auto,1,Injury only,14430,4,No
+Driver error,23-06-2018,Auto,0,Material only,2510,1,No
+Driver error,03-10-2018,Home,0,Injury only,25040,1,No
+Natural causes,24-10-2017,Auto,0,Material only,1700,1,No
+Other causes,22-05-2017,Auto,0,Material only,2330,1,No
+Natural causes,02-05-2017,Auto,0,Injury only,13100,5,No
+Driver error,24-04-2018,Auto,1,Injury only,34470,1,No
+Other causes,16-08-2018,Home,0,Material and injury,40930,1,No
+Driver error,04-04-2018,Auto,0,Material only,1950,6,No
+Natural causes,12-04-2017,Auto,0,Material only,1440,1,No
+Other causes,26-09-2018,Auto,0,Material only,2240,2,No
+Driver error,09-02-2018,Auto,0,Material and injury,36810,1,No
+Crime,16-08-2018,Auto,0,Material only,2460,1,No
+Natural causes,14-07-2018,Auto,0,Material only,1060,1,No
+Natural causes,23-08-2018,Home,0,Material and injury,19040,4,No
+Other causes,26-01-2018,Auto,0,Material only,2150,3,No
+Other driver error,23-02-2017,Auto,0,Material only,1060,1,No
+Other causes,27-07-2018,Auto,0,Injury only,26850,1,No
+Crime,31-10-2017,Auto,0,Material only,3381,2,Yes
+Driver error,17-02-2017,Auto,0,Material and injury,23940,1,No
+Other causes,03-02-2017,Auto,0,Material only,1564,1,Yes
+Crime,28-03-2018,Auto,0,Material only,1780,1,No
+Other causes,21-01-2017,Auto,0,Material only,3001.5,2,Yes
+Crime,30-06-2018,Auto,0,Injury only,33520,1,No
+Driver error,26-01-2018,Auto,1,Injury only,35910,3,No
+Natural causes,26-01-2018,Auto,0,Material only,1210,1,No
+Other driver error,18-04-2017,Auto,1,Material and injury,36170,1,No
+Driver error,21-03-2018,Auto,0,Material only,1265,1,Yes
+Driver error,13-11-2017,Auto,0,Material and injury,16380,1,No
+Driver error,17-06-2018,Auto,1,Material and injury,23430,1,No
+Natural causes,03-08-2018,Auto,0,Material only,2553,4,Yes
+Crime,13-11-2017,Auto,0,Material only,1870,3,No
+Driver error,28-07-2017,Auto,0,Material only,2270,1,No
+Driver error,31-10-2017,Auto,0,Material and injury,21920,1,No
+Natural causes,10-02-2017,Auto,0,Material only,1490,1,No
+Other causes,01-05-2018,Auto,0,Material only,2265.5,1,Yes
+Driver error,11-08-2017,Auto,0,Material only,1472,1,Yes
+Crime,10-06-2018,Auto,0,Injury only,36010,2,No
+Driver error,08-07-2017,Auto,0,Material only,2340,3,No
+Other causes,13-11-2017,Auto,0,Material only,2250,1,No
+Other driver error,01-03-2018,Auto,0,Material only,1500,1,No
+Other driver error,31-08-2017,Auto,0,Material only,1590,1,No
+Crime,24-04-2018,Auto,0,Material only,2495.5,1,Yes
+Other causes,27-01-2017,Auto,0,Material only,1242,1,Yes
+Natural causes,10-02-2017,Auto,0,Material only,2890,1,No
+Driver error,24-08-2017,Auto,1,Injury only,30500,1,No
+Driver error,09-03-2017,Auto,0,Injury only,32040,6,No
+Other causes,16-03-2017,Auto,0,Material and injury,17070,1,No
+Other driver error,06-01-2018,Auto,0,Material and injury,29428.5,1,Yes
+Other causes,02-03-2017,Home,0,Material only,2900,3,No
+Other causes,13-11-2017,Auto,1,Injury only,31240,1,No
+Driver error,14-07-2018,Auto,0,Material only,2047,1,Yes
+Natural causes,20-01-2018,Auto,0,Material only,1630,1,No
+Driver error,21-03-2018,Auto,0,Material and injury,21940,1,No
+Natural causes,17-10-2017,Auto,0,Material only,1621.5,2,Yes
+Driver error,10-04-2018,Auto,0,Material only,1240,2,No
+Other causes,03-06-2018,Auto,0,Injury only,34390,4,No
+Natural causes,22-02-2018,Auto,0,Material only,2340,1,No
+Driver error,03-02-2017,Auto,0,Material and injury,35480,1,No
+Natural causes,07-01-2017,Auto,0,Material only,1860,1,No
+Crime,19-09-2018,Auto,0,Material only,2010,1,No
+Natural causes,04-06-2017,Auto,0,Material only,2520,1,No
+Other causes,07-05-2018,Auto,0,Material only,1518,3,Yes
+Crime,09-03-2017,Auto,0,Material only,2150.5,5,Yes
+Natural causes,13-01-2018,Auto,0,Material only,1500,1,No
+Driver error,03-10-2018,Home,0,Material only,2830,1,No
+Other causes,05-04-2017,Auto,1,Injury only,34490,1,No
+Natural causes,09-03-2017,Auto,0,Material only,2553,1,Yes
+Crime,28-07-2017,Auto,1,Injury only,32180,1,No
+Other causes,05-04-2017,Auto,1,Material only,1020,1,No
+Other causes,10-08-2018,Auto,0,Material and injury,34994.5,1,Yes
+Other causes,12-04-2017,Auto,1,Material only,2800,1,No
+Driver error,18-06-2017,Auto,0,Material only,1630,1,No
+Driver error,30-10-2018,Home,0,Material only,1860,1,No
+Other causes,07-07-2018,Auto,0,Injury only,21480,1,No
+Other causes,28-07-2017,Auto,0,Material only,3358,1,Yes
+Other causes,28-07-2017,Auto,0,Material only,1978,3,Yes
+Natural causes,04-10-2017,Auto,0,Material only,2093,5,Yes
+Driver error,25-04-2017,Auto,0,Material and injury,39928,1,Yes
+Other causes,09-10-2018,Auto,0,Material only,1920.5,1,Yes
+Driver error,24-08-2017,Auto,0,Material only,2520,1,No
+Driver error,31-08-2017,Auto,0,Material only,2400,1,No
+Other causes,06-09-2018,Auto,0,Material and injury,21700,3,No
+Driver error,24-04-2018,Auto,1,Material only,1610,4,No
+Other causes,21-01-2017,Auto,0,Material only,2160,1,No
+Crime,01-07-2017,Auto,0,Material only,2360,1,No
+Other causes,14-01-2017,Auto,0,Material and injury,46483,1,Yes
+Other causes,23-06-2018,Auto,0,Material and injury,21530,2,No
+Crime,12-04-2017,Auto,0,Material only,3105,3,Yes
+Other driver error,20-09-2017,Auto,0,Material only,1368.5,3,Yes
+Other causes,17-10-2017,Home,0,Material only,2270,4,No
+Other driver error,07-09-2017,Auto,1,Material and injury,33730,1,No
+Other driver error,07-07-2018,Auto,0,Material only,1890,1,No
+Driver error,26-01-2018,Auto,0,Material and injury,39997,1,Yes
+Other causes,16-03-2017,Auto,0,Material and injury,19530,1,No
+Other causes,17-10-2017,Auto,0,Injury only,18140,2,No
+Other causes,31-10-2017,Auto,0,Injury only,33400,1,No
+Crime,06-01-2018,Home,0,Material only,2740,2,No
+Natural causes,04-10-2017,Auto,1,Material only,2240,1,No
+Natural causes,31-10-2017,Auto,0,Material only,3231.5,4,Yes
+Natural causes,31-10-2017,Auto,0,Injury only,19470,1,No
+Other causes,23-10-2018,Auto,0,Material and injury,25160,1,No
+Driver error,06-01-2018,Auto,0,Material only,2120,1,No
+Other causes,04-04-2018,Auto,0,Material only,1560,1,No
+Other causes,27-01-2017,Home,0,Material only,1130,1,No
+Natural causes,06-01-2018,Auto,0,Material only,2090,2,No
+Other causes,21-03-2018,Auto,0,Material only,1610,4,Yes
+Driver error,07-09-2017,Auto,0,Injury only,22130,1,No
+Other causes,30-12-2017,Auto,0,Material only,2250,1,No
+Other driver error,20-07-2018,Auto,1,Material and injury,33640,1,No
+Other driver error,08-07-2017,Auto,0,Material and injury,19100,1,No
+Driver error,01-01-2017,Auto,0,Material only,1840,1,Yes
+Other causes,23-10-2018,Auto,1,Injury only,19340,1,No
+Driver error,02-05-2017,Auto,0,Material only,1120,3,No
+Natural causes,22-03-2017,Auto,0,Material and injury,14220,1,No
+Other driver error,20-11-2017,Auto,1,Injury only,18650,1,No
+Other driver error,07-07-2018,Auto,0,Material only,3415.5,1,Yes
+Other driver error,23-02-2017,Auto,1,Injury only,19400,1,No
+Driver error,23-10-2018,Home,0,Material only,2310,1,No
+Other causes,09-10-2018,Auto,0,Material and injury,24621.5,1,Yes
+Natural causes,31-08-2017,Auto,0,Material only,3128,1,Yes
+Crime,29-03-2017,Auto,0,Material only,3369.5,1,Yes
+Crime,30-12-2017,Auto,1,Injury only,34460,1,No
+Other causes,17-02-2017,Auto,0,Material and injury,37740,1,No
+Natural causes,21-01-2017,Auto,0,Material only,2357.5,1,Yes
+Other driver error,22-05-2017,Auto,0,Injury only,33522.5,1,Yes
+Crime,03-12-2017,Auto,0,Material only,2110,1,No
+Driver error,08-03-2018,Auto,0,Injury only,33752.5,1,Yes
+Other driver error,20-07-2018,Auto,0,Material only,1070,3,No
+Other causes,04-06-2017,Auto,0,Injury only,33465,1,Yes
+Crime,03-08-2018,Auto,1,Injury only,16480,3,No
+Driver error,27-07-2018,Auto,0,Injury only,13820,1,No
+Other causes,20-01-2018,Auto,0,Material only,2880,1,No
+Other driver error,19-09-2018,Auto,0,Material only,1640,1,No
+Driver error,14-01-2017,Auto,0,Material only,2550,1,No
+Other causes,10-12-2017,Auto,0,Material only,2220,5,No
+Natural causes,06-11-2017,Auto,0,Material only,2370,1,No
+Crime,29-05-2017,Auto,0,Material only,1120,1,No
+Other causes,18-04-2017,Auto,1,Material and injury,20610,1,No
+Other causes,08-07-2017,Auto,0,Material and injury,34200,1,No
+Driver error,01-05-2018,Home,0,Material only,2580,1,No
+Other causes,11-08-2017,Auto,0,Material only,2540,2,No
+Other causes,28-07-2017,Auto,0,Injury only,24220,1,No
+Driver error,10-02-2017,Auto,1,Material and injury,20380,2,No
+Other causes,22-07-2017,Auto,0,Material only,2564.5,2,Yes
+Other causes,02-05-2017,Auto,1,Material and injury,30170,2,No
+Natural causes,14-05-2018,Auto,0,Material only,3231.5,1,Yes
+Natural causes,18-06-2017,Auto,0,Material only,1980,1,No
+Other causes,14-03-2018,Auto,0,Injury only,16680,1,No
+Other causes,10-10-2017,Auto,0,Material only,1370,1,No
+Crime,11-08-2017,Auto,0,Material only,1430,1,No
+Other driver error,17-02-2017,Auto,1,Material and injury,24050,2,No
+Other causes,17-12-2017,Auto,1,Material and injury,15040,1,No
+Driver error,24-10-2017,Auto,0,Material and injury,17951.5,1,Yes
+Driver error,12-09-2018,Auto,0,Material only,2130,1,No
+Other causes,29-03-2017,Auto,0,Injury only,33140,1,No
+Other causes,09-03-2017,Auto,1,Injury only,30080,1,No
+Crime,21-03-2018,Auto,0,Material only,1310,1,No
+Other causes,11-06-2017,Auto,0,Material only,2740,2,No
+Other driver error,23-06-2018,Auto,1,Injury only,37520,1,No
+Natural causes,28-03-2018,Auto,1,Material only,2390,3,No
+Other causes,17-02-2017,Auto,1,Material and injury,32090,1,No
+Natural causes,17-04-2018,Auto,0,Injury only,16870,1,No
+Natural causes,10-04-2018,Auto,1,Material only,2750,1,No
+Other driver error,17-04-2018,Auto,0,Material only,2480,1,No
+Other driver error,02-02-2018,Auto,0,Material only,1170,2,No
+Crime,24-12-2017,Auto,1,Material only,2633.5,1,Yes
+Other causes,19-09-2018,Auto,0,Injury only,25350,1,No
+Natural causes,15-05-2017,Auto,0,Material only,1520,1,No
+Driver error,11-08-2017,Auto,0,Material only,1880,1,No
+Other causes,10-10-2017,Auto,0,Material and injury,16680,1,No
+Other causes,07-07-2018,Auto,0,Material only,1250,1,No
+Crime,27-01-2017,Auto,0,Material only,2955.5,1,Yes
+Other causes,03-10-2018,Home,0,Material only,1320,2,No
+Driver error,07-09-2017,Home,0,Material and injury,48150.5,4,Yes
+Other causes,25-04-2017,Auto,0,Material only,2800,2,No
+Other causes,01-07-2017,Auto,0,Material only,1300,1,No
+Driver error,24-08-2017,Home,0,Material and injury,25093,1,Yes
+Natural causes,22-07-2017,Home,0,Material only,2680,1,No
+Crime,30-08-2018,Auto,0,Material only,1400,1,No
+Other causes,28-03-2018,Auto,0,Material only,2800,1,No
+Other causes,04-06-2017,Auto,0,Material only,1210,1,No
+Other driver error,01-07-2017,Auto,0,Material only,1380,1,Yes
+Crime,17-10-2017,Auto,0,Material only,3277.5,8,Yes
+Other causes,27-11-2017,Auto,0,Injury only,27580,1,No
+Driver error,28-03-2018,Home,1,Injury only,14480,1,No
+Crime,16-08-2018,Auto,0,Material only,1330,5,No
+Natural causes,04-10-2017,Auto,0,Material only,2500,1,No
+Other causes,13-01-2018,Auto,0,Material and injury,20690,1,No
+Other causes,07-07-2018,Auto,0,Material only,1880,2,No
+Other driver error,02-03-2017,Auto,0,Material only,2700,1,No
+Other driver error,10-02-2017,Auto,0,Material and injury,26610,1,No
+Other causes,21-03-2018,Auto,1,Material and injury,37040,1,No
+Driver error,03-08-2018,Auto,0,Material only,2500,2,No
+Other causes,15-07-2017,Auto,1,Material and injury,25750,1,No
+Driver error,17-12-2017,Auto,0,Material and injury,18135.5,1,Yes
+Driver error,09-05-2017,Home,0,Material and injury,18963.5,1,Yes
+Other driver error,23-10-2018,Home,0,Material only,2940,1,No
+Crime,23-10-2018,Auto,0,Material only,1730,3,No
+Other causes,04-04-2018,Auto,0,Material and injury,39192,1,Yes
+Natural causes,16-03-2017,Auto,0,Material only,2300,1,No
+Other driver error,10-06-2018,Auto,0,Material and injury,36440,1,No
+Driver error,02-05-2017,Auto,0,Material only,1184.5,1,Yes
+Other causes,07-01-2017,Auto,1,Material and injury,21590,1,No
+Other driver error,18-04-2017,Auto,0,Material only,1600,1,No
+Other driver error,24-08-2017,Auto,0,Material only,1748,1,Yes
+Driver error,28-07-2017,Auto,0,Material only,2460,3,No
+Driver error,05-04-2017,Auto,0,Injury only,29530,1,No
+Driver error,09-02-2018,Auto,0,Material only,1667.5,1,Yes
+Other driver error,22-02-2018,Auto,0,Material only,1587,4,Yes
+Other driver error,25-06-2017,Home,0,Material only,2550,4,No
+Natural causes,09-05-2017,Auto,0,Material only,2702.5,1,Yes
+Driver error,11-08-2017,Auto,0,Injury only,31020,2,No
+Natural causes,29-05-2017,Auto,1,Material only,2010,1,No
+Driver error,18-06-2017,Auto,0,Material only,2150,1,No
+Other causes,09-05-2017,Auto,0,Material and injury,45540,1,Yes
+Other causes,02-03-2017,Auto,0,Material only,1759.5,2,Yes
+Other driver error,29-05-2017,Auto,1,Injury only,34200,1,No
+Other causes,10-10-2017,Auto,0,Material and injury,22270,4,No
+Other driver error,01-03-2018,Auto,1,Material only,1300,3,No
+Other causes,03-10-2018,Auto,0,Material only,2610.5,3,Yes
+Other causes,15-02-2018,Auto,1,Material and injury,34210,1,No
+Other driver error,02-02-2018,Auto,0,Material and injury,34530,1,No
+Other driver error,20-01-2018,Auto,0,Material and injury,26890,1,No
+Other driver error,26-01-2018,Auto,0,Injury only,28040,2,No
+Other driver error,23-10-2018,Auto,0,Material only,1230,4,No
+Driver error,17-06-2018,Auto,0,Injury only,19750,5,No
+Crime,17-10-2017,Auto,0,Material only,1380,1,No
+Other driver error,21-01-2017,Auto,0,Material only,2010,5,No
+Other causes,23-02-2017,Auto,0,Material only,1495,1,Yes
+Natural causes,20-01-2018,Auto,0,Injury only,32730,1,No
+Natural causes,24-04-2018,Auto,0,Material only,2587.5,3,Yes
+Other driver error,09-03-2017,Auto,0,Material only,1630,4,No
+Other causes,06-11-2017,Auto,0,Injury only,26300,1,No
+Crime,21-05-2018,Auto,0,Material only,1960,1,No
+Other driver error,27-09-2017,Auto,0,Injury only,20490,7,No
+Other driver error,22-02-2018,Auto,0,Injury only,16479.5,1,Yes
+Natural causes,27-11-2017,Home,0,Material only,1980,3,No
+Other driver error,18-08-2017,Auto,0,Material only,2100,3,No
+Natural causes,27-09-2017,Auto,0,Material only,2290,1,No
+Natural causes,31-10-2017,Auto,0,Material only,1190,1,No
+Other causes,20-01-2018,Auto,0,Injury only,21600,1,No
+Other causes,04-10-2017,Auto,0,Material only,1260,1,No
+Natural causes,24-04-2018,Home,0,Material only,2219.5,1,Yes
+Natural causes,14-01-2017,Auto,0,Material only,1910,1,No
+Other causes,07-05-2018,Auto,0,Material only,1690,3,No
+Other causes,25-04-2017,Auto,0,Material and injury,15750,1,No
+Driver error,07-07-2018,Home,0,Material only,2110,1,No
+Other causes,24-04-2018,Auto,0,Material and injury,34780,3,No
+Driver error,03-10-2018,Auto,0,Material only,1900,5,No
+Other driver error,22-05-2017,Auto,0,Injury only,36500,1,No
+Other driver error,14-01-2017,Auto,0,Material and injury,36860,4,No
+Crime,17-04-2018,Auto,0,Material only,2277,1,Yes
+Natural causes,03-10-2018,Auto,0,Material only,3116.5,1,Yes
+Driver error,09-02-2018,Auto,0,Material only,2360,3,No
+Driver error,11-06-2017,Auto,0,Material and injury,30340,1,No
+Natural causes,15-07-2017,Auto,0,Material and injury,23420,1,No
+Other driver error,14-05-2018,Auto,1,Injury only,30400,1,No
+Natural causes,12-09-2018,Auto,0,Material only,2090,1,No
+Other driver error,17-02-2017,Auto,0,Material and injury,29740,1,No
+Other driver error,02-05-2017,Auto,0,Material only,1680,1,No
+Natural causes,30-12-2017,Auto,0,Material only,2940,1,No
+Other driver error,09-03-2017,Auto,0,Material only,1207.5,1,Yes
+Driver error,05-04-2017,Auto,0,Material and injury,22540,1,No
+Other driver error,15-02-2018,Auto,0,Injury only,31740,2,No
+Other causes,01-01-2017,Auto,0,Injury only,27670,1,No
+Driver error,30-08-2018,Auto,0,Material and injury,44470.5,2,Yes
+Natural causes,13-01-2018,Auto,0,Material only,2000,1,No
+Other causes,21-03-2018,Auto,1,Material only,2810,3,No
+Other driver error,21-05-2018,Auto,0,Material and injury,27330,3,No
+Other causes,11-06-2017,Auto,0,Material only,2670,1,No
+Driver error,23-02-2017,Auto,1,Material and injury,26250,1,No
+Driver error,17-04-2018,Auto,0,Material and injury,14690,1,No
+Driver error,09-10-2018,Auto,0,Injury only,15270,4,No
+Other causes,03-02-2017,Auto,0,Material only,2770,1,No
+Other driver error,13-01-2018,Auto,0,Injury only,37400,1,No
+Other causes,05-04-2017,Auto,0,Material only,2310,1,No
+Driver error,10-10-2017,Auto,0,Material only,3323.5,1,Yes
+Other causes,12-04-2017,Auto,0,Material only,1570,1,No
+Other causes,09-02-2018,Home,0,Material only,1530,1,No
+Natural causes,24-08-2017,Auto,0,Material only,1090,1,No
+Other causes,18-04-2017,Home,0,Material only,1750,1,No
+Natural causes,20-01-2018,Auto,0,Material only,2140,1,No
+Other causes,24-08-2017,Auto,0,Material only,2730,1,No
+Driver error,17-06-2018,Auto,0,Material only,2668,2,Yes
+Driver error,14-07-2018,Auto,1,Injury only,21160,1,No
+Other driver error,01-03-2018,Auto,0,Injury only,32867,3,Yes
+Driver error,15-02-2018,Auto,0,Material only,2930,1,No
+Other causes,04-10-2017,Auto,0,Material only,2560,1,No
+Natural causes,20-01-2018,Auto,0,Material only,2420,1,No
+Driver error,17-06-2018,Auto,0,Material only,1690,1,No
+Other causes,15-05-2017,Auto,0,Material and injury,17370,3,No
+Other causes,16-10-2018,Auto,0,Injury only,13090,1,No
+Driver error,20-01-2018,Auto,1,Material and injury,33620,1,No
+Driver error,13-11-2017,Auto,0,Material only,2415,2,Yes
+Other causes,30-12-2017,Auto,1,Material only,2790,3,No
+Other driver error,18-04-2017,Auto,0,Material only,1970,5,No
+Other driver error,25-04-2017,Auto,0,Material only,1200,1,No
+Driver error,30-10-2018,Auto,0,Material only,1830,1,No
+Other driver error,04-08-2017,Auto,0,Material and injury,18457.5,1,Yes
+Other driver error,17-12-2017,Auto,1,Material and injury,30670,1,No
+Other causes,10-02-2017,Auto,0,Material only,2380.5,1,Yes
+Driver error,13-11-2017,Auto,0,Material and injury,40135,2,Yes
+Driver error,31-10-2017,Auto,0,Material and injury,29200,1,No
+Crime,24-10-2017,Home,0,Material only,1340,1,No
+Natural causes,17-10-2017,Auto,0,Material only,1800,1,No
+Natural causes,01-05-2018,Auto,0,Material only,2780,1,No
+Driver error,27-11-2017,Auto,0,Material and injury,42021,1,Yes
+Other driver error,01-07-2017,Auto,0,Material only,2200,3,No
+Driver error,21-01-2017,Auto,0,Material only,2196.5,5,Yes
+Other causes,07-01-2017,Auto,0,Injury only,36670,2,No
+Other driver error,06-09-2018,Auto,1,Material and injury,35310,6,No
+Other driver error,28-05-2018,Auto,0,Material only,3151,1,Yes
+Other causes,07-05-2018,Auto,0,Material and injury,42872,1,Yes
+Natural causes,10-04-2018,Auto,0,Material only,2420,1,No
+Natural causes,28-07-2017,Auto,1,Material and injury,32750,4,No
+Natural causes,10-10-2017,Auto,0,Material only,2490,1,No
+Natural causes,31-08-2017,Auto,0,Material only,1960,5,No
+Natural causes,06-09-2018,Auto,0,Injury only,24900,1,No
+Other driver error,07-01-2017,Auto,1,Injury only,35280,2,No
+Other driver error,21-01-2017,Auto,0,Material only,2260,1,No
+Other driver error,28-03-2018,Auto,0,Material only,1610,1,Yes
+Driver error,09-05-2017,Auto,0,Material only,2070,1,Yes
+Natural causes,27-09-2017,Auto,0,Material only,2990,1,No
+Driver error,30-06-2018,Home,1,Injury only,22440,1,No
+Other causes,07-07-2018,Auto,1,Material only,3093.5,1,Yes
+Other causes,16-10-2018,Auto,0,Material and injury,22850,1,No
+Crime,28-07-2017,Auto,0,Material only,1740,2,No
+Crime,09-10-2018,Auto,0,Material only,2430,3,No
+Natural causes,12-09-2018,Auto,1,Material only,2208,4,Yes
+Driver error,07-01-2017,Home,0,Material only,1552.5,1,Yes
+Other causes,23-10-2018,Auto,0,Material only,2553,4,Yes
+Other causes,16-08-2018,Auto,0,Material only,3139.5,1,Yes
+Other causes,16-10-2018,Auto,0,Material and injury,19820,1,No
+Other causes,10-08-2018,Home,1,Material and injury,35800,1,No
+Natural causes,29-03-2017,Home,0,Material only,2510,1,No
+Crime,02-03-2017,Auto,0,Injury only,14250,1,No
+Other driver error,25-04-2017,Auto,0,Material only,3093.5,4,Yes
+Driver error,22-03-2017,Auto,0,Material and injury,20458.5,1,Yes
+Other causes,01-05-2018,Auto,0,Injury only,28658,1,Yes
+Natural causes,03-06-2018,Auto,0,Material only,1290,1,No
+Other driver error,17-10-2017,Auto,0,Material only,2360,1,No
+Other causes,26-09-2018,Home,0,Material and injury,15760,1,No
+Driver error,14-07-2018,Auto,0,Material only,1610,2,No
+Other causes,10-04-2018,Home,0,Material only,2090,1,No
+Driver error,10-06-2018,Auto,1,Material and injury,25210,3,No
+Other causes,07-07-2018,Auto,0,Material only,1510,1,No
+Driver error,20-09-2017,Auto,0,Injury only,40951.5,1,Yes
+Other driver error,02-05-2017,Home,0,Material only,1470,1,No
+Other causes,04-10-2017,Home,0,Material only,1587,4,Yes
+Natural causes,12-04-2017,Auto,1,Material and injury,23483,4,Yes
+Natural causes,06-01-2018,Auto,1,Material and injury,14360,1,No
+Driver error,01-07-2017,Auto,0,Material only,2490,2,No
+Natural causes,07-07-2018,Auto,0,Material only,2710,1,No
+Other causes,04-06-2017,Auto,0,Material only,2500,2,No
+Natural causes,10-04-2018,Auto,0,Material only,1770,5,No
+Crime,07-01-2017,Auto,0,Material only,1530,2,No
+Natural causes,09-03-2017,Auto,0,Material only,1350,1,No
+Driver error,23-02-2017,Auto,0,Material and injury,29220,3,No
+Other causes,16-03-2017,Auto,0,Material only,2720,1,No
+Other causes,25-06-2017,Auto,1,Injury only,27350,1,No
+Other causes,12-09-2018,Auto,0,Material and injury,19390,1,No
+Other driver error,04-04-2018,Auto,0,Material only,2900,2,No
+Driver error,21-05-2018,Auto,1,Injury only,33360,1,No
+Other causes,16-08-2018,Auto,0,Material only,2320,1,No
+Other causes,21-05-2018,Auto,0,Material only,1180,2,No
+Natural causes,03-10-2018,Auto,0,Material only,2470,1,No
+Other driver error,15-02-2018,Auto,0,Material only,1000,2,No
+Driver error,20-11-2017,Auto,0,Material only,2990,1,No
+Driver error,04-04-2018,Auto,0,Material only,2852,2,Yes
+Other driver error,21-03-2018,Auto,0,Material only,1370,1,No
+Driver error,03-06-2018,Auto,0,Material only,1370,1,No
+Crime,30-12-2017,Auto,0,Material only,1670,2,No
+Other driver error,16-03-2017,Home,0,Material only,1720,1,No
+Other driver error,07-01-2017,Auto,0,Injury only,28760,1,No
+Other driver error,20-07-2018,Auto,0,Material only,1180,4,No
+Driver error,03-02-2017,Auto,0,Material only,3346.5,1,Yes
+Natural causes,12-04-2017,Auto,0,Material only,2110,1,No
+Driver error,14-05-2018,Auto,0,Material only,1750,1,No
+Driver error,13-01-2018,Auto,0,Material and injury,48035.5,1,Yes
+Other driver error,18-08-2017,Auto,0,Material only,1240,1,No
+Other driver error,17-02-2017,Auto,0,Material only,2800,1,No
+Natural causes,05-04-2017,Auto,0,Injury only,34010,1,No
+Other driver error,03-06-2018,Auto,0,Material only,1780,1,No
+Natural causes,01-03-2018,Home,0,Material only,1480,1,No
+Other causes,11-08-2017,Auto,0,Material only,1472,1,Yes
+Driver error,15-07-2017,Auto,0,Material only,1330,1,No
+Other driver error,15-02-2018,Auto,0,Material only,1780,5,No
+Driver error,07-01-2017,Auto,0,Material only,1276.5,1,Yes
+Driver error,17-02-2017,Home,0,Material and injury,28520,1,Yes
+Other driver error,21-05-2018,Auto,0,Injury only,17870,6,No
+Other driver error,24-04-2018,Home,0,Material only,2380,1,No
+Other causes,14-05-2018,Auto,0,Material only,2280,1,No
+Other causes,08-07-2017,Auto,0,Material only,1357,1,Yes
+Other causes,28-07-2017,Home,0,Material only,2590,1,No
+Other driver error,02-02-2018,Auto,0,Material only,2852,4,Yes
+Natural causes,07-07-2018,Auto,0,Material only,1690,1,No
+Crime,14-07-2018,Auto,0,Material only,2630,1,No
+Driver error,09-10-2018,Auto,0,Material only,2270,6,No
+Other driver error,21-03-2018,Auto,0,Material and injury,19895,1,Yes
+Natural causes,25-06-2017,Auto,1,Injury only,35920,1,No
+Other causes,10-08-2018,Auto,1,Injury only,26320,1,No
+Driver error,23-10-2018,Auto,0,Material and injury,30890,2,No
+Natural causes,30-10-2018,Auto,0,Material only,2420,1,No
+Natural causes,14-09-2017,Auto,0,Material only,1720,1,No
+Natural causes,14-05-2018,Auto,0,Material and injury,31210,1,No
+Natural causes,14-09-2017,Auto,0,Material only,1670,1,No
+Natural causes,30-08-2018,Auto,0,Material only,2162,5,Yes
+Other driver error,17-10-2017,Auto,0,Material only,2242.5,1,Yes
+Other driver error,03-12-2017,Auto,1,Material and injury,25140,2,No
+Other driver error,04-06-2017,Auto,0,Injury only,37743,1,Yes
+Natural causes,19-09-2018,Auto,0,Material only,1150,1,Yes
+Natural causes,01-01-2017,Auto,1,Injury only,20630,1,No
+Other causes,20-11-2017,Auto,0,Material only,1230,1,No
+Other causes,03-02-2017,Auto,0,Material only,2323,3,Yes
+Natural causes,06-09-2018,Auto,0,Material only,1090,5,No
+Other driver error,20-07-2018,Auto,0,Material and injury,44033.5,1,Yes
+Other driver error,03-02-2017,Home,1,Material only,2670,2,No
+Other causes,30-12-2017,Auto,0,Material only,2070,1,No
+Natural causes,28-07-2017,Auto,0,Material only,1050,1,No
+Other causes,19-09-2018,Home,1,Injury only,38950,1,No
+Driver error,23-08-2018,Auto,0,Material only,2730,3,No
+Driver error,09-10-2018,Auto,0,Injury only,33330,2,No
+Driver error,03-06-2018,Auto,0,Material only,2780,1,No
+Crime,21-01-2017,Home,0,Material only,1380,3,No
+Natural causes,30-10-2018,Auto,0,Material only,2290,1,No
+Driver error,21-01-2017,Auto,0,Material only,2320,3,No
+Other causes,27-11-2017,Auto,1,Material only,2173.5,1,Yes
+Other driver error,06-09-2018,Auto,1,Material only,1770,1,No
+Other causes,09-05-2017,Home,0,Material only,2800,1,No
+Other driver error,15-05-2017,Auto,1,Injury only,33080,2,No
+Other driver error,18-04-2017,Auto,0,Material only,2840,4,No
+Natural causes,16-03-2017,Auto,0,Material only,1490,1,No
+Other causes,20-07-2018,Auto,0,Material only,2080,1,No
+Natural causes,30-10-2018,Auto,0,Material only,2875,1,Yes
+Driver error,03-12-2017,Auto,0,Injury only,29010,1,No
+Other causes,22-03-2017,Auto,0,Material only,1710,1,No
+Natural causes,02-05-2017,Auto,0,Material only,1030,4,No
+Other driver error,24-08-2017,Auto,0,Material only,2288.5,1,Yes
+Crime,17-10-2017,Auto,0,Material only,3346.5,3,Yes
+Crime,30-06-2018,Auto,0,Material only,1805.5,1,Yes
+Other causes,07-07-2018,Auto,0,Material only,1610,3,No
+Other causes,13-11-2017,Auto,1,Material and injury,24850,1,No
+Other driver error,11-06-2017,Auto,0,Material only,3059,4,Yes
+Natural causes,14-03-2018,Auto,0,Material only,1520,2,No
+Other driver error,09-02-2018,Auto,0,Material and injury,23575,2,Yes
+Other causes,21-03-2018,Auto,0,Material and injury,25120,1,No
+Other driver error,04-06-2017,Auto,1,Material and injury,36685,3,Yes
