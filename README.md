@@ -94,10 +94,10 @@ The app will launch in your browser at:
 ## 🎥 Video Demos
 
 ### 1. Insurance Summary Recording  
-[▶ Watch Demo](videos/insurance_summary_recording.mp4)
+[▶ Watch Demo](screenshots/insurance_summary_recording.mp4)
 
 ### 2. Multilingual Translation Demo  
-[▶ Watch Demo](videos/multi_lingual_transaltion.mp4)
+[▶ Watch Demo](screenshots/multi_lingual_transaltion.mp4)
 
 
 
