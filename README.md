@@ -78,7 +78,6 @@ The app will launch in your browser at:
 👉 [http://localhost:8501](http://localhost:8501)
 
 ---
-
 ## 📸 Application Demo
 
 ### 1. Automated Insurance Q&A
@@ -89,6 +88,17 @@ The app will launch in your browser at:
 
 ### 3. Multilingual Insurance Document Translation
 ![Multilingual Translation](screenshots/multi_language_transaltion.png)
+
+---
+
+## 🎥 Video Demos
+
+### 1. Insurance Summary Recording  
+[▶ Watch Demo](videos/insurance_summary_recording.mp4)
+
+### 2. Multilingual Translation Demo  
+[▶ Watch Demo](videos/multi_lingual_transaltion.mp4)
+
 
 
 ## 📊 Components
